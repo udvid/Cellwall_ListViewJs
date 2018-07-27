@@ -1,2 +1,2 @@
 # Cellwall_ListViewJs
-A Javascript Ajax based ListView Generator Plugin
+A JavaScript Ajax based ListView Generator Plugin
